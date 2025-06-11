@@ -7,7 +7,6 @@ i know i'm deaf so i know my weakness but i would try to be better!
 ---
 - 🔭 I’m currently working on STTI-ITech as a internship software engineering
 - 🌱 I’m currently on college at Asian e University as Bachelor and as Diploma at CCIT FTUI
----
 ## 🚀 &nbsp;Some Tools I Have Used and Learned 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
