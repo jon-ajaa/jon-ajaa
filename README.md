@@ -27,7 +27,14 @@ i know i'm deaf so i know my weakness but i would try to be better!
 </p>
 ---
 ## 📫 How to reach me? just hit me up on:
-<a href=”https://www.instagram.com/mhmd.azhaar/"><img align=”left” src=”https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/instagram.svg" alt=”instagram” width=”21px”/></a>
-<a href=”https://www.linkedin.com/in/muhammadazharnajib-jonaja/"><img align=”left” src=”https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/linkedin.svg" alt=”linkedin” width=”21px”/></a>
-<a href=”https://api.whatsapp.com/send?phone=6285819452096&text=Hi%2C%20i%20want%20to%20know%20more%20about%20you!"><img align=”left” src=”https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/whatsapp.svg" alt=”whatsapp” width=”21px”/></a>
+<a href="https://www.instagram.com/mhmd.azhaar/">
+  <img align="left" src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/instagram.svg" alt="instagram" width="21px"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammadazharnajib-jonaja/">
+  <img align="left" src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/linkedin.svg" alt="linkedin" width="21px"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=6285819452096&text=Hi%2C%20i%20want%20to%20know%20more%20about%20you!">
+  <img align="left" src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/whatsapp.svg" alt="whatsapp" width="21px"/>
+</a>
+
 
