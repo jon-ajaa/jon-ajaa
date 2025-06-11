@@ -35,7 +35,7 @@ I know my weakness, and I'm working hard to overcome it and improve myself.
 ---
 
 ## 📫 How to reach me?
-
+<p>Just feel free and hit me up on: </p>
 <a href="https://www.instagram.com/mhmd.azhaar/">
   <img src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/instagram.svg" alt="Instagram" width="25px"/>
 </a>&nbsp;
