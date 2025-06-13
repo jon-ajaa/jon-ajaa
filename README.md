@@ -1,4 +1,4 @@
-## Hi everybody 👋👋👋
+## Hey Guys!
 
 I'm a deaf person who's open to constructive criticism because it helps me grow, mature, and become better. I love learning new things because every challenge feels exciting for me!
 
@@ -8,12 +8,12 @@ I know my weakness, and I'm working hard to overcome it and improve myself.
 
 ---
 
-- 🔭 I’m currently working at **STTI-ITech** as a software engineering intern  
-- 🌱 I’m currently studying at **Asian e University** (Bachelor's with 3.53 grade) and **CCIT FTUI** (Diploma with 3.25 grade)
+- I’m currently working at **STTI-ITech** as a software engineering intern  
+- I’m currently studying at **Asian e University** (Bachelor's with 3.53 grade) and **CCIT FTUI** (Diploma with 3.25 grade)
 
 ---
 
-## 🚀 Some Tools I Have Used and Learned
+## Some Tools I Have Used and Learned
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -34,7 +34,7 @@ I know my weakness, and I'm working hard to overcome it and improve myself.
 
 ---
 
-## 📫 How to reach me?
+## How to reach me?
 <p>Just feel free and hit me up on: </p>
 <a href="https://www.instagram.com/mhmd.azhaar/">
   <img src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/instagram.svg" alt="Instagram" width="25px"/>
