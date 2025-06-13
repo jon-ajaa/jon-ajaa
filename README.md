@@ -8,7 +8,7 @@ I know my weakness, and I'm working hard to overcome it and improve myself.
 
 ---
 
-- I’m currently working at **STTI-ITech** as a software engineering intern  
+- I’m currently working at **[}{}{}** as a software engineering intern  
 - I’m currently studying at **Asian e University** (Bachelor's with 3.53 grade) and **CCIT FTUI** (Diploma with 3.25 grade)
 
 ---
