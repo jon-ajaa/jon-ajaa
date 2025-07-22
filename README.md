@@ -36,12 +36,12 @@ I know my weakness, and I'm working hard to overcome it and improve myself.
 
 ## How to reach me?
 <p>Just feel free and hit me up on: </p>
-<a href="https://www.instagram.com/mhmd.azhaar/">
+<a href="https://www.instagram.com/mhmd.azhaar/" target="_blank">
   <img src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/instagram.svg" alt="Instagram" width="25px"/>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammadazharnajib-jonaja/">
+<a href="https://www.linkedin.com/in/muhammadazharnajib-jonaja/" target="_blank">
   <img src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/linkedin.svg" alt="LinkedIn" width="25px"/>
 </a>&nbsp;
-<a href="https://api.whatsapp.com/send?phone=6285819452096&text=Hi%2C%20i%20want%20to%20know%20more%20about%20you!">
+<a href="https://api.whatsapp.com/send?phone=6285819452096&text=Hi%2C%20i%20want%20to%20know%20more%20about%20you!" target="_blank">
   <img src="https://raw.githubusercontent.com/jon-ajaa/jon-ajaa/main/images/whatsapp.svg" alt="WhatsApp" width="25px"/>
 </a>
